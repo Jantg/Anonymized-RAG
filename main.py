@@ -16,7 +16,7 @@ GDP, Unemployment rate, Monetary Policy, etc.
 2. Microeconomic sentiments: how the compant view the health of the firm-specific in the
 next quarter. Words to look for are for example: Operating margning, Return of equity,
 Debt-to-equity ratio, Sales growth, Inventory turnover, etc.
-'''
+
 """
 async def main():
     w = AnonymizedRAGWorkflow(folder_name = 'EarningsCall',
