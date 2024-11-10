@@ -13,7 +13,7 @@ from llama_index.core.node_parser import SentenceSplitter
 
 import numpy as np
 import pandas as pd
-from von_mises_fisher_mixture import VonMisesFisherMixture
+from sphericalKmeans.von_mises_fisher_mixture import VonMisesFisherMixture
 
 from llama_index.core.workflow import Event
 from llama_index.core.bridge.pydantic import BaseModel, Field
