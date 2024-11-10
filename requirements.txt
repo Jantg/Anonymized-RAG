@@ -1,2 +1,10 @@
+numpy
+pandas
+scipy
+scikit-learn
 llama-index-core
 llama-index-utils-workflow
+llama-index-llms-openai
+llama-index-embeddings-nvidia
+llama-index-readers-file
+diff_match_patch
